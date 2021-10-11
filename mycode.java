@@ -2,6 +2,6 @@ class mycode{
 public static void main(String args[])
 {
 
-	System.out.println("GIT JENKINS INTERGRATION");
+	System.out.println("GIT JENKins INTERGRATION");
 }
 }
